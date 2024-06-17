@@ -8,5 +8,5 @@
 - Use the Pykalman library to implement the Kalman filter algorithm and produce results.
 - Implement the Kalman filter algorithm without using any libraries and produce results.
 
-# 블로그
+# 칼만필터 내용 정리 블로그
 https://velog.io/@hyun26a__a/%EC%B9%BC%EB%A7%8C%ED%95%84%ED%84%B0Kalman-Filter%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%B9%BC%EB%A7%8C%ED%95%84%ED%84%B0-%EC%A0%95%EC%9D%98-%EB%B0%8F-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
